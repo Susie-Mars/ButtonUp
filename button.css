@@ -1,0 +1,36 @@
+#search, #button, #Create {
+    margin: 10px;
+    padding: 20px
+
+
+}
+#search {
+    font-size: medium;
+    font-weight: bold;
+    border: 5px solid rgb(71, 190, 190);
+    border-radius: 50px;
+    color: rgb(71, 190, 190);
+    background-color: rgb(234, 227, 227);
+    width: 200px;
+    height: 60px;
+
+}
+
+#button {
+    border: 1px;
+    border-radius: 150%;
+    color: white;
+    background-color: rgb(25, 119, 122);
+    font-weight: bold;
+    font-size: large;
+
+}
+
+#Create {
+    font-size: medium;
+    background-color: blue;
+    color: white;
+    width: 225px;
+    box-shadow: 10px 5px 5px black;
+
+}
